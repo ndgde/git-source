@@ -9,3 +9,7 @@ def main():
 	print("небольшое изменение")
 
 	print("еще одно")
+
+
+if __name__ == "__main__":
+	main()
